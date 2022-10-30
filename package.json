@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon contract.js"
+    "start": "nodemon web3-js.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.20",
-    "web3": "^1.8.0"
+    "solc": "^0.8.17",
+    "web3": "^1.8.0",
+    "web3.js-browser": "^0.2.0"
   }
 }
