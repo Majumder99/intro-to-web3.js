@@ -1,3 +1,5 @@
+// compile using web3.js and vs code and run the solidity program and compile using solc
+
 const solc = require("solc");
 const fs = require("fs");
 const Web3 = require("web3");
